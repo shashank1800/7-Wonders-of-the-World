@@ -18,7 +18,7 @@ import kotlinx.android.synthetic.main.card_layout.view.*
 class MainRecyclerAdapter : RecyclerView.Adapter<MainRecyclerAdapter.ViewHolder>() {
 
     private lateinit var mContext: Context
-    private var workObjects: ArrayList<Wonders> = ArrayList()
+    private var wonders: ArrayList<Wonders> = ArrayList()
 
     inner class ViewHolder(@Nullable itemView: View) : RecyclerView.ViewHolder(itemView) {
 //        init {
@@ -58,20 +58,20 @@ class MainRecyclerAdapter : RecyclerView.Adapter<MainRecyclerAdapter.ViewHolder>
     }
 
     override fun getItemCount(): Int {
-        return workObjects.size
+        return wonders.size
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        holder.itemView.name.text = workObjects[position].name
-        holder.itemView.country.text = workObjects[position].country
+        holder.itemView.name.text = wonders[position].name
+        holder.itemView.country.text = wonders[position].country
         Glide.with(mContext)
-            .load(workObjects[position].image)
+            .load(wonders[position].image)
             .centerCrop()
             .into(holder.itemView.image)
     }
 
-    fun setWorkList(list:ArrayList<Wonders>){
-        workObjects = list
+    fun setWondersList(list:ArrayList<Wonders>){
+        wonders = list
         notifyDataSetChanged()
     }
 
