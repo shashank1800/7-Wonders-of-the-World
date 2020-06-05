@@ -1,0 +1,44 @@
+{
+	"0":{
+		"name": "Taj Mahal",
+		"country": "India",
+		"desc":"A mausoleum commissioned for the wife of Mughal Emperor Shah Jahan, the Taj Mahal was built between 1632 and 1648. Considered the most perfect specimen of Muslim art in India, the white marble structure actually represents a number of architectural styles, including Persian, Islamic, Turkish and Indian. The Taj Mahal also encompasses formal gardens of raised pathways, sunken flower beds and a linear reflecting pool.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/Taj%20Mahal.jpg"
+	},
+	"1":{
+		"name": "Great Wall of China",
+		"country": "China",
+		"desc":"Built between the 5th century B.C. and the 16th century, the Great Wall of China is a stone-and-earth fortification created to protect the borders of the Chinese Empire from invading Mongols. The Great Wall is actually a succession of multiple walls spanning approximately 4,000 miles, making it the world's longest manmade structure.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/The%20Great%20Wall%20of%20China.jpg"
+	},
+	"2":{
+		"name": "Machu Picchu",
+		"country": "Peru",
+		"desc":"Machu Picchu, an Incan city of sparkling granite precariously perched between 2 towering Andean peaks, is thought by scholars to have been a sacred archaeological center for the nearby Incan capital of Cusco. Built at the peak of the Incan Empire in the mid-1400s, this mountain citadel was later abandoned by the Incas. The site remained unknown except to locals until 1911, when it was rediscovered by archaeologist Hiram Bingham. The site can only be reached by foot, train or helicopter; most visitors visit by train from nearby Cusco.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/Machu%20Picchu.jpg"
+	},
+	"3":{
+		"name": "Colosseum",
+		"country": "Italy",
+		"desc":"Rome's, if not Italy's, most enduring icon is undoubtedly its Colosseum. Built between A.D. 70 and 80 A.D., it was in use for some 500 years. The elliptical structure sat nearly 50,000 spectators, who gathered to watch the gladiatorial events as well as other public spectacles, including battle reenactments, animal hunts and executions. Earthquakes and stone-robbers have left the Colosseum in a state of ruin, but portions of the structure remain open to tourists, and its design still influences the construction of modern-day amphitheaters, some 2,000 years later.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/Colosseum.jpg"
+	},
+	"4":{
+		"name": "Chichen Itza",
+		"country": "Mexico",
+		"desc":"Chichen Itza is an archaeological site located in Mexico’s Yucatán State. It is a pre-Columbian city that was built during the Terminal Classic period by the Maya people. The historical value of the site contributes to its status as a wonder of the world. Chichen Itza is believed to have been one of the major cities of the ancient Mayan world and constructions in the city exhibit a variety of architectural styles.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/Chichen%20Itza.jpg"
+	},
+	"5":{
+		"name": "Christ the Redeemer",
+		"country": "Brazil",
+		"desc":"One of Brazil's most iconic symbols, the Art Deco styled statue of Jesus Christ in Rio de Janeiro is one of the new seven wonders of the world. The credit of building the statue goes to Paul Landowski, a French sculptor. The Romanian sculptor, Gheorghe Leonida, was responsible for fashioning the face. Christ the Redeemer is 98 feet tall and has a 26-feet tall pedestal. Its arms stretch 92 feet wide. The 635 metric ton statue, made of soapstone and concrete, is located atop the 2,300 feet tall Corcovado mountain. The construction of the statue was initiated in 1922 and completed by 1931.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/Christ%20the%20Redeemer.jpg"
+	},
+	"6":{
+		"name": "Petra",
+		"country": "Jordan",
+		"desc":"Declared a World Heritage Site in 1985, Petra was the capital of the Nabataean empire of King Aretas IV, and likely existed in its prime from 9 B.C. to A.D. 40. The members of this civilization proved to be early experts in manipulating water technology, constructing intricate tunnels and water chambers, which helped create an pseudo-oasis. A number of incredible structures carved into stone, a 4,000-seat amphitheater and the El-Deir monastery have also helped the site earn its fame.",
+		"image":"https://raw.githubusercontent.com/shashank1800/7-Wonders-of-the-World/master/api/photos/Petra1.jpg"
+	}
+}
